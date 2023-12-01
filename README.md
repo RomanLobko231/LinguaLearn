@@ -1,4 +1,4 @@
--- LinguaLearn --
+# -- LinguaLearn --
 
 A language learning app that I made as a small gift particularly for my girlfriend, since she wanted to learn Spanish. 
 - A core concept and study flow is as follows: a user has to start a new day every day before studying so the progress can be followed. Later on when our user comes upon unknown word in target language, they open the app, translate the word to their mothertongue and save this new pair in the current day. 
